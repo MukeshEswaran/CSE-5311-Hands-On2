@@ -1,6 +1,6 @@
 # CSE-5311-Hands-On2
 
-The Output Plot of Time vs Input size from 0 to 10000
+The Output Plot of Time vs Input size 
 ![output](https://github.com/user-attachments/assets/3ec4a41c-836a-4c7c-8c2a-6eaf6e96b8ba)
 
 
